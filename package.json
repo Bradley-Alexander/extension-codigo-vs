@@ -1,0 +1,31 @@
+{
+  "name": "mi-extension",
+  "displayName": "mi-extension",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tema Bradley Poma",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tema Bradley Poma-color-theme.json"
+      }
+    ]
+  },
+  "author": {
+    "name": "Bradley Poma",
+    "email": "bradley.poma@unl.edu.ec",
+    "url": "https://www.linkedin.com/in/bradley-poma-vera-79151b360/"
+  },
+  "repository": {
+    "url": "https://github.com/Bradley-Alexander/extension-codigo-vs.git",
+    "type": "git"
+  },
+  "publisher": "bradley-poma"
+}
